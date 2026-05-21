@@ -3,7 +3,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "Urban_brew",
+            "name": "urban_brew",
             "database": "./urban_brew.db"
         }
     ]
