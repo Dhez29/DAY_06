@@ -1,0 +1,11 @@
+transaction_id,date,item_name,category,price,quantity
+1,2026-05-20,Latte,Beverage,4.50,1
+2,2026-05-20,Blueberry Muffin,Food,3.00,2
+3,2026-05-20,Espresso,Beverage,2.50,1
+4,2026-05-20,Cappuccino,Beverage,4.00,1
+5,2026-05-21,Croissant,Food,3.50,1
+6,2026-05-21,Latte,Beverage,4.50,2
+7,2026-05-21,Iced Coffee,Beverage,3.50,1
+8,2026-05-21,Avocado Toast,Food,6.50,1
+9,2026-05-22,Espresso,Beverage,2.50,2
+10,2026-05-22,Blueberry Muffin,Food,3.00,1
