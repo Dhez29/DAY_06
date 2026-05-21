@@ -1,1 +1,0 @@
-Select * from sales_data;

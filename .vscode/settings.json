@@ -5,6 +5,12 @@
             "driver": "SQLite",
             "name": "Urban_brew",
             "database": "./urban_brew.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "day_04",
+            "database": "C:\\Users\\PC\\Documents\\Dhez_sql\\Day04_practice.db"
         }
     ]
 }
