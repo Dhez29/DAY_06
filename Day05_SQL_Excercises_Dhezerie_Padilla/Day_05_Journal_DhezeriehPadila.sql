@@ -1,0 +1,11 @@
+16. comfortable are you now with writing WHERE clauses? What was the trickiest part?
+-- Answer: I am now more comfortable with writing WHERE clauses. The trickiest part was understanding how to use the different operators (AND, OR, BETWEEN, IN, LIKE) effectively to filter data based on multiple conditions.
+17. Which new operator (AND, OR, BETWEEN, IN, LIKE) do you find most useful? Why?
+your partner?
+-- Answer: I find the AND operator most useful because it allows me to filter data based on multiple conditions that must all be true. This is particularly helpful when I want to narrow down results to a specific subset of data that meets several criteria at once.
+18. If you did the pair activity in class, how was the collaboration experience? What did you learn from your partner?
+-- Answer: The collaboration experience was positive. I learned from my partner how to approach filtering data in a more structured way, and we were able to discuss different strategies for using the various operators effectively. It was helpful to see how my partner thought through the problems and to exchange ideas on how to write more efficient queries.
+19. How does SQL filtering compare to filtering in Excel? Which feels more natural to you right now?
+-- Answer: SQL filtering is more powerful and flexible compared to filtering in Excel. SQL allows for complex queries that can filter data based on multiple conditions and can handle larger datasets more efficiently. Excel filtering is more visual and may feel more intuitive for simple tasks, but it can become cumbersome when dealing with large amounts of data or complex criteria. Right now, I feel more comfortable with SQL filtering as it provides more control and precision in retrieving the desired data.
+20. What is one business question YOU would want to answer with SQL in a real job?
+-- Answer: One business question I would want to answer with SQL in a real job is: "Which products have the highest sales in the last quarter, and which customers are purchasing them?" This information would help identify top-performing products and key customers, allowing the business to focus marketing efforts and inventory management on those areas.
