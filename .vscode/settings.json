@@ -11,6 +11,12 @@
             "driver": "SQLite",
             "name": "day_04",
             "database": "C:\\Users\\PC\\Documents\\Dhez_sql\\Day04_practice.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "day_05",
+            "database": "C:\\Users\\PC\\Documents\\Dhez_sql\\Day05_practice.db"
         }
     ]
 }
